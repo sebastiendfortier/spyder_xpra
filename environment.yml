@@ -1,0 +1,6 @@
+name: jupyterhub
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - spyder
